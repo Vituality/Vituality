@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vituality, I'm a Solution Delivery Architect at Citrix in France.
+- 👀 I’m interested in automation of Citrix desployements, assesment and configuration
+- 🌱 I’m currently devellopening in PowerShell
