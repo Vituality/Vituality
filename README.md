@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Vincent, Solution Delivery Architect at Citrix in France.
+- 👋 Hi, I’m Vincent, Solution Architect at Citrix in France.
 - 👀 I’m interested in automation of Citrix deployements, assesment and configuration
 - 🌱 I’m currently devellopening in PowerShell and C#
